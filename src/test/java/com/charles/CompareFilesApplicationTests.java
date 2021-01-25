@@ -1,4 +1,4 @@
-package com.charles.comparefiles;
+package com.charles;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
